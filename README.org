@@ -1,0 +1,9 @@
+* cl-iparse
+
+GLL parsing with EBNF/ABNF support
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-iparse |
+| commit  | 8d830fa                                  |
+| systems | iparse                                   |
+|---------+------------------------------------------|
